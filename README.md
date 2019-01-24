@@ -1,3 +1,3 @@
 # xbox
 
-this is my first txt on git.
+this is my first program on git!
